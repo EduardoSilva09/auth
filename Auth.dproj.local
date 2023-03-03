@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/02 20:21:54.000.337,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\Auth.dproj=C:\Users\eduar\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/02 20:25:17.000.629,=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 20:25:49.000.073,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\controller\Controller.Auth.pas=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 20:32:43.000.993,=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\providers\Providers.Connection.pas</Transaction>
+    <Transaction>2023/03/02 20:33:37.000.811,=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 20:34:06.000.668,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\services\Service.Auth.dfm=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\Unit1.dfm</Transaction>
+    <Transaction>2023/03/02 20:34:06.000.668,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\services\Service.Auth.pas=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 20:38:46.000.390,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\services\Services.Auth.dfm=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\services\Service.Auth.dfm</Transaction>
+    <Transaction>2023/03/02 20:38:46.000.390,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\services\Services.Auth.pas=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\services\Service.Auth.pas</Transaction>
+    <Transaction>2023/03/02 20:38:51.000.933,D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\controller\Controllers.Auth.pas=D:\Dev\DelphiProjects\curso-rest-delphi-horse\rest\auth\src\controller\Controller.Auth.pas</Transaction>
+  </Transactions>
+</BorlandProject>
